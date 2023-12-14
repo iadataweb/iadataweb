@@ -9,7 +9,7 @@
 </div>
 <!--Resumen-->
 <p align="justify">
-  Me considero una persona altamente responsable con la capacidad de desarrollar mi trabajo con excelente calidad. Mi objetivo es continuar aprendiendo y fortaleciendo mis habilidades, aprovechando la experiencia adquirida durante mis años de formación y buscando nuevas oportunidades para crecer profesionalmente. Estoy motivado por la posibilidad de aplicar mis habilidades en proyectos desafiantes y obtener nuevas experiencias.
+  Me considero una persona responsable y comprometido en mejorar constantemente mis habilidades. Mi objetivo es aplicar habilidades en proyectos desafiantes, aprovechando la experiencia adquirida durante mis años de formación y explorando oportunidades para crecer profesionalmente.
 </p>
 
 
@@ -22,7 +22,7 @@
 <!--Iconos de tecnologías-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,figma,github,html,java,js,jquery,php,md,mysql,postgres,py,django,vscode&perline=14" />
   </a>
 </p>
 
