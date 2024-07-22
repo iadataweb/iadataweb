@@ -16,13 +16,9 @@ Estoy planeando crear más dashboards y proyectos relacionados con el análisis 
 - **Herramientas de Análisis:** Power BI, Excel y Tableau.
 - **Otros:** Análisis de datos, Visualización de Datos y Limpieza de Datos.
 
-## 👯 Busco Colaborar
+## ☕ Busco Colaborar
 
-Me encantaría colaborar en proyectos relacionados con:
-
-- Análisis de datos
-- Visualización de datos
-- [Otra área de interés]
+Estoy interesado en colaborar en proyectos relacionados con el análisis y visualización de datos. Me gustaría trabajar con otros para crear soluciones que proporcionen información valiosa a partir de datos complejos. Si tienes un proyecto emocionante, ¡me encantaría saber más!
 
 ## 📫 Cómo Contactarme
 
