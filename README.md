@@ -29,7 +29,7 @@ Puedes encontrarme en:
 
 ## ⚡ Datos Curiosos
 
-- Disfruto viendo mi serie anime de acción.
-- Me encanta comer pizza americana.
+- Soy un gran fan del anime de acción.
+- La pizza americana es mi comida favorita.
 
 ¡Gracias por visitar mi perfil!
