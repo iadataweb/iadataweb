@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy Bachiller en Ingeniería de Sistemas, espe
 
 Aquí hay algunos proyectos en los que he trabajado:
 
-- **[Pokémon Dashboard en Power BI](https://github.com/tu-usuario/pokemon-dashboard):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
+- **[Pokémon Dashboard en Power BI](https://github.com/injantedataweb/pokemon-dashboard):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
 
 Estoy planeando crear más dashboards y proyectos relacionados con el análisis de datos en el futuro. ¡Mantente atento!
 
@@ -24,8 +24,8 @@ Estoy interesado en colaborar en proyectos relacionados con el análisis y visua
 
 Puedes encontrarme en:
 
-- **LinkedIn:** [TuNombre](https://www.linkedin.com/in/tuperfil)
-- **Correo Electrónico:** tuemail@ejemplo.com
+- **LinkedIn:** [Carlos Injante](https://www.linkedin.com/in/20ismael1999/)
+- **Correo Electrónico:** 20ismael1999@gmail.com
 
 ## ⚡ Datos Curiosos
 
