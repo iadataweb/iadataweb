@@ -1,40 +1,39 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Carlos</a> 👋</h1>
-</div>
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 Perfil</h2></summary>
-  </ul>
-</div>
-<!--Resumen-->
-<p align="justify">
-  Me considero una persona responsable y comprometido en mejorar constantemente mis habilidades. Mi objetivo es aplicar habilidades en proyectos desafiantes, aprovechando la experiencia adquirida durante mis años de formación y explorando oportunidades para crecer profesionalmente.
-</p>
+Bienvenido a mi perfil de GitHub. Soy Bachiller en Ingeniería de Sistemas, especializado en análisis de datos. Me apasiona trabajar en proyectos que transforman datos en información valiosa y ayudan a tomar decisiones informadas.
 
+## 🚀 Proyectos Destacados
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">⚙️ Tecnologías</h2></summary>
-  </ul>
-</div>
-<!--Iconos de tecnologías-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,figma,github,html,java,js,jquery,php,md,mysql,postgres,py,django,vscode&perline=14" />
-  </a>
-</p>
+Aquí hay algunos proyectos en los que he trabajado:
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">📊 Análisis</h2></summary>
-  </ul>
-</div>
-<!--Reporte-->
-<p align="center">
-<a href="https://github.com/cstealbino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codeiawebdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeiawebdev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+- **[Pokémon Dashboard en Power BI](https://github.com/tu-usuario/pokemon-dashboard):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
+
+Estoy planeando crear más dashboards y proyectos relacionados con el análisis de datos en el futuro. ¡Mantente atento!
+
+## 🛠️ Habilidades
+
+- **Lenguajes de Programación:** Python y SQL.
+- **Herramientas de Análisis:** Power BI, Excel y Tableau.
+- **Otros:** Análisis de datos, Visualización de Datos y Limpieza de Datos.
+
+## 👯 Busco Colaborar
+
+Me encantaría colaborar en proyectos relacionados con:
+
+- Análisis de datos
+- Visualización de datos
+- [Otra área de interés]
+
+## 📫 Cómo Contactarme
+
+Puedes encontrarme en:
+
+- **LinkedIn:** [TuNombre](https://www.linkedin.com/in/tuperfil)
+- **Correo Electrónico:** tuemail@ejemplo.com
+
+## ⚡ Datos Curiosos
+
+- Disfruto viendo mi serie anime de acción.
+- Me encanta comer pizza americana.
+
+¡Gracias por visitar mi perfil!
