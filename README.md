@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy [Carlos Injante]! 👋
 
 Bienvenido a mi perfil de GitHub. Soy Bachiller en Ingeniería de Sistemas, especializado en análisis de datos. Me apasiona trabajar en proyectos que transforman datos en información valiosa y ayudan a tomar decisiones informadas.
 
