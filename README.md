@@ -6,8 +6,8 @@ Bienvenido a mi perfil de GitHub. Soy Bachiller en Ingeniería de Sistemas, espe
 
 Aquí hay algunos proyectos en los que he trabajado:
 
-- **[Pokémon Dashboard en Power BI](https://github.com/injantedataweb/pokemon-dashboard):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
-- **[Netflix Dashboard en Power BI](https://github.com/injantedataweb/netflix-dashboard):** Un dashboard interactivo que analiza el contenido de Netflix con datos de Kaggle, limpiados y preparados con Python. Permite explorar tipos de contenido, títulos, elenco, países, géneros, lanzamientos por año y valoraciones, abarcando el contenido agregado desde 2008 hasta 2021.
+- **[Pokémon Dashboard en Power BI](https://github.com/iadataweb/pokemon-dashboard):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
+- **[Netflix Dashboard en Power BI](https://github.com/iadataweb/netflix-dashboard):** Un dashboard interactivo que analiza el contenido de Netflix con datos de Kaggle, limpiados y preparados con Python. Permite explorar tipos de contenido, títulos, elenco, países, géneros, lanzamientos por año y valoraciones, abarcando el contenido agregado desde 2008 hasta 2021.
 
 Estoy planeando crear más dashboards y proyectos relacionados con el análisis de datos en el futuro. ¡Mantente atento!
 
