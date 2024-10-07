@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy Bachiller en Ingeniería de Sistemas, espe
 
 Aquí hay algunos proyectos en los que he trabajado:
 
-- **[Dashboard de French Bakery en Excel](https://github.com/iadataweb/dashboard-french-bakery):** Un dashboard interactivo con datos de Kaggle que nos permite las ventas de la Panadería Francesa.
+- **[Dashboard de French Bakery en Excel](https://github.com/iadataweb/dashboard-french-bakery):** Un dashboard interactivo con datos de Kaggle que nos permite analizar las ventas de la Panadería Francesa.
 - **[Dashboard de Netflix en Power BI](https://github.com/iadataweb/dashboard-netflix):** Un dashboard interactivo que analiza el contenido de Netflix con datos de Kaggle, limpiados y preparados con Python. Permite explorar tipos de contenido, títulos, elenco, países, géneros, lanzamientos por año y valoraciones, abarcando el contenido agregado desde 2008 hasta 2021.
 - **[Dashboard de Pokémon en Power BI](https://github.com/iadataweb/dashboard-pokemon):** Un dashboard interactivo que muestra estadísticas y evoluciones de Pokémon, utilizando datos extraídos de la PokeAPI.
 
