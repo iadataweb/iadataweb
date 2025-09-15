@@ -27,7 +27,7 @@ Estoy interesado en colaborar en proyectos relacionados con el análisis y visua
 
 Puedes encontrarme en:
 
-- **LinkedIn:** [Carlos Injante](https://www.linkedin.com/in/20ismael1999/)
+- **LinkedIn:** [Ismael Injante](https://www.linkedin.com/in/20ismael1999/)
 - **Correo Electrónico:** 20ismael1999@gmail.com
 
 ## ⚡ Datos Curiosos
